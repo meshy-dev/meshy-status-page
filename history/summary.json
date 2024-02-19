@@ -22,19 +22,19 @@
     "url": "https://api-staging.meshy.ai/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/api-staging.meshy.ai.ico",
     "slug": "meshy-api",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 301,
-    "timeDay": 301,
-    "timeWeek": 301,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "status": "up",
+    "uptime": "96.11%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "96.11%",
+    "uptimeMonth": "96.11%",
+    "uptimeYear": "96.11%",
+    "time": 250,
+    "timeDay": 250,
+    "timeWeek": 250,
+    "timeMonth": 250,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2024-02-19": 0
+      "2024-02-19": 2
     }
   }
 ]
