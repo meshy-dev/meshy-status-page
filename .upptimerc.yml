@@ -15,7 +15,9 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.meshy.ai
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://cdn.meshy.ai/status-page-assets/Meshy_Icon_256.png
+  favicon: https://cdn.meshy.ai/status-page-assets/Meshy_Icon_256.png
   name: Meshy Status Page
   introTitle: "This is the status page of some of the **Meshy AI** public-facing services"
   introMessage: Welcome to the status page of Meshy, we are sorry if you run into incidents due to downtime of our services!
@@ -34,8 +36,8 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  # every 1 hour
-  uptime: "0 */1 * * *"
+  # every 20 minutes
+  uptime: "*/20 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
