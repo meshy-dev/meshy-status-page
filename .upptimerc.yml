@@ -8,7 +8,7 @@ sites:
     url: https://meshy.ai
   - name: Meshy API
     # TODO: Change this to production API endpoint
-    url: https://api-staging.meshy.ai/public/status
+    url: https://api.meshy.ai/public/status
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
