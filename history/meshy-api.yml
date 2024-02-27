@@ -1,7 +1,7 @@
-url: https://api-staging.meshy.ai/public/status
+url: https://api.meshy.ai/public/status
 status: up
 code: 200
-responseTime: 238
-lastUpdated: 2024-02-26T23:17:43.907Z
+responseTime: 196
+lastUpdated: 2024-02-27T11:28:47.789Z
 startTime: 2024-02-19T06:15:07.358Z
 generator: Upptime <https://github.com/upptime/upptime>
