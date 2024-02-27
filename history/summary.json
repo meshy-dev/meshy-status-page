@@ -22,7 +22,7 @@
     "url": "https://api.meshy.ai/public/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.meshy.ai.ico",
     "slug": "meshy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 176,
     "timeMonth": 191,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-27": 0
+    }
   }
 ]
