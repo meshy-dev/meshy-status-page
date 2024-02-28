@@ -1,8 +1,26 @@
 [
   {
-    "name": "Meshy Webapp",
+    "name": "Meshy Landing Page",
     "url": "https://meshy.ai",
     "icon": "https://icons.duckduckgo.com/ip3/meshy.ai.ico",
+    "slug": "meshy-landing-page",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 348,
+    "timeDay": 348,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Meshy Webapp",
+    "url": "https://app.meshy.ai",
+    "icon": "https://icons.duckduckgo.com/ip3/app.meshy.ai.ico",
     "slug": "meshy-webapp",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 493,
-    "timeDay": 473,
-    "timeWeek": 448,
-    "timeMonth": 493,
-    "timeYear": 493,
+    "time": 467,
+    "timeDay": 356,
+    "timeWeek": 415,
+    "timeMonth": 467,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 192,
-    "timeDay": 201,
-    "timeWeek": 178,
-    "timeMonth": 192,
-    "timeYear": 192,
+    "time": 198,
+    "timeDay": 228,
+    "timeWeek": 189,
+    "timeMonth": 198,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2024-02-27": 57
     }
