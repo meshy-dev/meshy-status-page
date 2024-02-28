@@ -4,10 +4,11 @@ repo: meshy-status-page # The name of this repository
 user-agent: meshy-status-probe
 
 sites:
-  - name: Meshy Webapp
+  - name: Meshy Landing Page
     url: https://meshy.ai
+  - name: Meshy Webapp
+    url: https://app.meshy.ai
   - name: Meshy API
-    # TODO: Change this to production API endpoint
     url: https://api.meshy.ai/public/status
 
 status-website:
